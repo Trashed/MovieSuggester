@@ -1,3 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">MovieSuggester</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="textview_splash_screen">Movie Suggester</string>
+    <string name="title_activity_login">User login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_password_field">admin1</string>
+    <string name="hint_username_field">admin</string>
+    <string name="button_login">Login</string>
+
 </resources>
