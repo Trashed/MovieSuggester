@@ -12,5 +12,7 @@
     <string name="hint_password_field">admin1</string>
     <string name="hint_username_field">admin</string>
     <string name="button_login">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="textview_main_activity">MainActivity</string>
 
 </resources>
